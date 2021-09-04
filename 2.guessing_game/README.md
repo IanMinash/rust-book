@@ -86,3 +86,4 @@ loop {
 ```
 
 A loop can be exited by using the `break` keyword.
+The next iteration of the loop can be started by using the `continue` keyword.
